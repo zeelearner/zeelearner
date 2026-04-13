@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm interested in learing chemistry, developing computer science skills. Currently exploring the student developer pack and revising. 
 <!--
 **zeelearner/zeelearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
